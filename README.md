@@ -31,3 +31,34 @@ Fiso usez alot of bash commands
 ```mkdir```
 
 ```chmod```
+# How to use
+
+first you have to go to the app menu.
+
+![Screenshot from 2022-10-22 08-33-47](https://user-images.githubusercontent.com/101670923/197341906-cf912c87-531e-4c2a-86a8-351ee9832428.png)
+
+next search for FISO
+
+![Screenshot from 2022-10-22 08-34-50](https://user-images.githubusercontent.com/101670923/197341966-2d988bd4-c4a7-4423-9ca1-507ab254ce02.png)
+
+click on the app and it will take you to a new window
+
+![Screenshot from 2022-10-22 08-36-26](https://user-images.githubusercontent.com/101670923/197342040-38b7bf8d-fa85-4468-8e57-27be624441bd.png)
+
+tick the checkmark and click "ok"
+
+now you have to type in your username(it puts the username in there by default)
+
+![Screenshot from 2022-10-22 08-38-08](https://user-images.githubusercontent.com/101670923/197342142-4fc7b7ee-7e56-4bc1-8d1c-6dd41ccdb55f.png)
+
+now you have to choose a disk. in a terminal window type in ```lsblk```
+
+the disk that you want either has sd in it or nvme.
+
+![Screenshot from 2022-10-22 08-41-00](https://user-images.githubusercontent.com/101670923/197342279-af41bbab-83d3-4c1b-83ae-aa3cd5270c87.png)
+
+now click ok and it will take you to a seperate window saying that it will be stored at /home/[your username]/Desktop. click ok again
+
+
+
+
