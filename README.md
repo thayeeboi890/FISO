@@ -59,6 +59,15 @@ the disk that you want either has sd in it or nvme.
 
 now click ok and it will take you to a seperate window saying that it will be stored at /home/[your username]/Desktop. click ok again
 
+![Screenshot from 2022-11-05 10-30-22](https://user-images.githubusercontent.com/101670923/200127534-3823ad3f-52f8-4148-9e7b-7f4a31e7dd55.png)
+
+in the terminal window that got opened type in your password
+
+![Screenshot from 2022-11-05 10-31-57](https://user-images.githubusercontent.com/101670923/200127603-69251555-e3bc-4f42-82a1-7531666771af.png)
+
+when finished click ok and finish off by clicking ok on the window
+
+![Screenshot from 2022-11-05 10-33-30](https://user-images.githubusercontent.com/101670923/200127685-b0f90cef-3618-41f5-8a78-9571861624b4.png)
 
 
 
